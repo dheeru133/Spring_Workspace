@@ -1,0 +1,10 @@
+server:
+  port: 8085
+  servlet:
+    context-path: /ui
+
+    
+security:
+  oauth2:
+    resource:
+      userInfoUri: http://localhost:8086/validateUser

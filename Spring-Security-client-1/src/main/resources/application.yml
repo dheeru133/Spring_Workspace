@@ -1,0 +1,14 @@
+server:
+  port: 8084
+  servlet:
+    context-path: /ui
+    session:
+      cookie:
+        name: UISESSIONID
+
+
+
+spring:
+  thymeleaf:
+    cache: false
+    

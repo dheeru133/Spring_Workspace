@@ -1,0 +1,22 @@
+(1)Extract
+*.zip
+
+(2)Command line
+echo Write your commands here
+
+echo Use the environment variables input below to pass secret variables to this script
+
+echo ###################  %location%
+
+DIR
+
+TREE/F
+
+(3)PS
+# Write your powershell commands here.
+
+Write-Host "System Arifacts Directory ---- >" "$env:SYSTEM_ARTIFACTSDIRECTORY"
+
+# Use the en
+
+(4) Azure ps

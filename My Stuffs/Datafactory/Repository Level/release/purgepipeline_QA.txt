@@ -1,0 +1,6 @@
+#List of Pipelines to be deleted,no .json extension is required.
+#Order of listing has to be in A -> D
+Testing-A
+Testing-A
+Testing-A
+Testing-A

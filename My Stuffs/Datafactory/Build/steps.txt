@@ -1,0 +1,18 @@
+(1)Archive
+$(Build.ArtifactStagingDirectory)/artifacts_$(Build.BuildId).zip
+
+(2)Command line
+
+echo Write your commands here
+
+echo Use the environment variables input below to pass secret variables to this script
+
+DIR/P
+
+@rem COPY artifacts_$(Build.BuildId).zip Z:\build\
+
+(3) Publish
+
+$(Build.ArtifactStagingDirectory)
+
+

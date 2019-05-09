@@ -1,0 +1,21 @@
+#List of Pipelines to be promoted,.json extension is required.
+#Order of listing has to be in D -> A
+##############################################################
+#Sanity Check Pipeline
+##############################################################
+#check-all-service.json
+##############################################################
+#Cube Refresh Pipeline - Dont Promote , Keep Commented out
+##############################################################
+#REFRESH-BIM-PIPELINE.json
+##############################################################
+
+#Testing Full Load
+##############################################################
+Testing_d.json
+Testing_c.json
+Testing_b.json
+Testing_a.json
+##############################################################
+
+
